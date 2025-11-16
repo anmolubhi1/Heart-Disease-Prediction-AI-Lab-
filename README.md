@@ -23,5 +23,5 @@ This project builds a predictive model using machine learning techniques to clas
 
 ---
 
-## 📂 Project Structure
+
 
